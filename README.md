@@ -25,10 +25,15 @@ MyCMD is an easy to use command line coded in batch.
 ## Installation
 1. Go to the [Releases tab](https://github.com/BernieStoryStudio/MyCMD/releases)
 
-Download the batch file or the installer ([Learn more about bat vs installer](https://github.com/BernieStoryStudio/MyCMD/wiki/About-different-types-of-installations))
+2. Download the batch file or the installer ([Learn more about bat vs installer](https://github.com/BernieStoryStudio/MyCMD/wiki/About-different-types-of-installations))
 
-Install the [EXE](https://github.com/B[ernieStoryStudio/MyCMD/wiki/Installation) or the [BAT](https://github.com/BernieStoryStudio/MyCMD/wiki/Installation) file
+3. Install the [EXE](https://github.com/B[ernieStoryStudio/MyCMD/wiki/Installation) or the [BAT](https://github.com/BernieStoryStudio/MyCMD/wiki/Installation) file
 
-npm install
+4. open the Bat file
 
-npm start
+## Usage
+
+Youtube Video: DONTCLICKTHIS
+
+
+
