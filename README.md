@@ -7,7 +7,12 @@
 <p>
 
 <p align="center">MyCMD is an easy to use command line coded in batch.<p>
-<p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/_0.0.1-lightblue?style=flat&logoColor=%23FFFFFF&label=Version&labelColor=%23808080&link=https%3A%2F%2Fgithub.com%2FBernieStoryStudio%2FMyCMD%2Ftree%2Fmain%2FVersions%2F0.0.1"> 
+<p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Your-Shell.-blue?style=flat&logo=Advent%20Of%20Code&logoColor=black&labelColor=white">
+<p align="center"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/BernieStoryStudio/MyCMD?include_prereleases&display_name=release&style=for-the-badge&labelColor=lightgray&color=lightblue"> <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/BernieStoryStudio/MyCMD?style=for-the-badge&labelColor=lightgrey&color=orange"> <img alt="Static Badge" src="https://img.shields.io/badge/Available_on-Github-white?style=for-the-badge&logo=Github&logoColor=black&labelColor=white">
+
+<p align="center">
+<p align="center">
+
 
 
 
