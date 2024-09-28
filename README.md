@@ -44,7 +44,11 @@
 
 ## Usage
 
-Youtube Video: DONTCLICKTHIS
+> [!TIP]
+> We have an exprimental AI to help you [CLICK HERE](https://www.blackbox.ai/agent/MyCMDhelpercnq6xjW)
+
+> [!NOTE]  
+> Read in [WIKI](https://github.com/BernieDevStudio/MyCMD/wiki/Usage)
 
 
 
