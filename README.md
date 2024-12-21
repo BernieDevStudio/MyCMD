@@ -6,7 +6,7 @@
 ╚═╝░░░░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░░░░╚═╝╚═════╝░
 <p>
 
-<p align="center">MyCMD is an easy to use command line coded in batch.<p>
+<p align="center">MyCMD is an easy to use command line coded in batch or pyton.<p>
 <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Your-Shell.-blue?style=flat&logo=Advent%20Of%20Code&logoColor=black&labelColor=white">
 <p align="center"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/BernieStoryStudio/MyCMD?include_prereleases&display_name=release&style=for-the-badge&labelColor=lightgray&color=lightblue"> <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/BernieStoryStudio/MyCMD?style=for-the-badge&labelColor=lightgrey&color=orange"> <img alt="Static Badge" src="https://img.shields.io/badge/Available_on-Github-white?style=for-the-badge&logo=Github&logoColor=black&labelColor=white">
 
